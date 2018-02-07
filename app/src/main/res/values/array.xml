@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="source_labels">
+        <item>@string/source_ars_technica_label</item>
+        <item>@string/source_bbc_sport_label</item>
+        <item>@string/source_bbc_news_label</item>
+        <item>@string/source_buzzfeed_label</item>
+        <item>@string/source_cnn_label</item>
+        <item>@string/source_daily_mail_label</item>
+        <item>@string/source_entertainment_weekly_label</item>
+        <item>@string/source_espn_label</item>
+        <item>@string/source_four_four_two_label</item>
+        <item>@string/source_football_italia_label</item>
+        <item>@string/source_mashable_label</item>
+        <item>@string/source_mtv_label</item>
+        <item>@string/source_medical_news_today_label</item>
+        <item>@string/source_marca_label</item>
+        <item>@string/source_national_geographic_label</item>
+        <item>@string/source_politico_label</item>
+        <item>@string/source_polygon_label</item>
+        <item>@string/source_talk_sport_label</item>
+        <item>@string/source_tech_crunch_label</item>
+        <item>@string/source_tech_radar_label</item>
+        <item>@string/source_the_economist_label</item>
+        <item>@string/source_the_guardian_label</item>
+        <item>@string/source_the_hindu_label</item>
+        <item>@string/source_the_huffington_post_label</item>
+        <item>@string/source_the_nyt_label</item>
+        <item>@string/source_the_next_web_label</item>
+        <item>@string/source_the_sport_bible_label</item>
+        <item>@string/source_the_telegraph_label</item>
+        <item>@string/source_the_verge_label</item>
+
+    </string-array>
+
+    <string-array name="source_values">
+        <item>@string/source_ars_technica_value</item>
+        <item>@string/source_bbc_sport_value</item>
+        <item>@string/source_bbc_news_value</item>
+        <item>@string/source_buzzfeed_value</item>
+        <item>@string/source_cnn_value</item>
+        <item>@string/source_daily_mail_value</item>
+        <item>@string/source_entertainment_weekly_value</item>
+        <item>@string/source_espn_value</item>
+        <item>@string/source_four_four_two_value</item>
+        <item>@string/source_football_italia_value</item>
+        <item>@string/source_mashable_value</item>
+        <item>@string/source_mtv_value</item>
+        <item>@string/source_the_medical_news_value</item>
+        <item>@string/source_marca_value</item>
+        <item>@string/source_national_geographic_value</item>
+        <item>@string/source_politico_value</item>
+        <item>@string/source_polygon_value</item>
+        <item>@string/source_talk_sport_value</item>
+        <item>@string/source_tech_crunch_value</item>
+        <item>@string/source_tech_radar_value</item>
+        <item>@string/source_the_economist_value</item>
+        <item>@string/source_the_guardian_value</item>
+        <item>@string/source_the_hindu_value</item>
+        <item>@string/source_the_huffington_post_value</item>
+        <item>@string/source_the_nyt_value</item>
+        <item>@string/source_the_next_web_value</item>
+        <item>@string/source_the_sport_bible_value</item>
+        <item>@string/source_the_telegraph_value</item>
+        <item>@string/source_the_verge_value</item>
+
+    </string-array>
+
+
+</resources>
