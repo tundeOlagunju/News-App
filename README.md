@@ -4,6 +4,8 @@ sites of your choice.it also allows you to search and retrieve live articles fro
 
 Data is gotten from the News API.
 
+# Screenshots
+
 ![screenshot_20180207-033136](https://user-images.githubusercontent.com/31137677/35896049-2ee2aae4-0b6f-11e8-9204-5e3f47b47a9e.png)
 
 ![screenshot_20180207-033154](https://user-images.githubusercontent.com/31137677/35896058-367dda4e-0b6f-11e8-8020-82ec7474493c.png)
